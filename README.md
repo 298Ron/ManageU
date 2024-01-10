@@ -9,6 +9,7 @@ The website boasts a clean and user-friendly interface, making task management s
 The website's mobile responsiveness ensures that users can manage their tasks on the go. This adaptability is essential in today's dynamic work environment.
 
 In conclusion, ManageU is a standout task management solution that combines functionality with user-centric design. It is with great enthusiasm that I recommend this platform to individuals and teams seeking an efficient, intuitive, and comprehensive tool to enhance their task management endeavors.
+
 ManageU [PC]
 
 <img width="928" alt="image" src="https://github.com/298Ron/ManageU/assets/132360307/f82214e9-01c8-464f-bb0e-d31f31f55cb6">
